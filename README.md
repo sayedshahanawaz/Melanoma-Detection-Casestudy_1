@@ -15,14 +15,14 @@ The data set contains the following diseases:
 - Squamous cell carcinoma
 - Vascular lesion
 - 
-##Steps Involved
+## Steps Involved
 Data Reading/Data Understanding
 
-##Dataset Creation
+## Dataset Creation
 
-##Dataset visualisation
+## Dataset visualisation
 
-##Model Building & training : 
+## Model Building & training : 
 Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model rescale images to normalize pixel values between (0,1).
 Choose an appropriate optimiser and loss function for model training
 
@@ -43,9 +43,9 @@ Create a CNN model, which can accurately detect 9 classes present in the dataset
 Choose an appropriate optimiser and loss function for model training
 Train the model for ~30 epochs
 
-##Conclusions
+## Conclusions
 
-##Technologies Used
+## Technologies Used
 tensorflow
 matplotlib
 numpy
