@@ -47,8 +47,11 @@ Train the model for ~30 epochs
 
 ## Technologies Used
 tensorflow
+
 matplotlib
+
 numpy
+
 pandas
 
 
